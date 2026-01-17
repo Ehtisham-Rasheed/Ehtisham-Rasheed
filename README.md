@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Ehtisham Rasheed</h1>
 <h3 align="center">Software Engineer specializing in .NET Backend Systems</h3>
 
-- 🔭 I’m currently working on **Smart-Calendar**
+- 🔭 I’m currently working on **Smart-Calendar, Real Estate Based Application**
 
 - 🌱 I’m currently learning **C#, .Net, Databases**
 
